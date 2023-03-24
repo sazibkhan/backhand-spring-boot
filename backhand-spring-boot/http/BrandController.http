@@ -1,0 +1,7 @@
+### BrandController::createNewBrand
+POST http://localhost:9088/api/v1/brands
+Content-Type: application/json
+
+{
+  "brandName":"Samsung"
+}
